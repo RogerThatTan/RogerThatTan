@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 <h1 align="center">Hi 👋, I'm Tanvir Hassan</h1>
 <h3 align="center">"Game On, Code On: Bridging the Gap Between Gaming and Programming"</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
