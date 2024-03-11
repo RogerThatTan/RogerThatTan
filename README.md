@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tanvir Hassan</h1>
-<h3 align="center">"Game On, Code On: Bridging the Gap Between Gaming and Programming"</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rogerthattan&label=Profile%20views&color=0e75b6&style=flat" alt="rogerthattan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rogerthattan" target="blank"><img src="https://img.shields.io/twitter/follow/rogerthattan?logo=twitter&style=for-the-badge" alt="rogerthattan" /></a> </p>
-
 - 🌱 I’m currently learning **Python,Tensorflow,JS,CSS,PHP**
 
 - 🤝 I’m looking for help with **Convolutional neural network**
