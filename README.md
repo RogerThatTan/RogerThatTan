@@ -26,6 +26,10 @@
   <a href="https://www.facebook.com/rogerthattan46481/">
      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <a href="[https://scholar.google.com/citations?user=YOUR_USER_ID_HERE](https://scholar.google.com/citations?user=Wu-Rd-UAAAAJ&hl=en&authuser=1&oi=sra)">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+
 </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
