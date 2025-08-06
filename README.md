@@ -27,8 +27,6 @@
      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -36,9 +34,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,java,js,php,py,tailwind,mysql" />
     <img src="https://skillicons.dev/icons?i=arduino,figma,github,matlab,ps,pr,pytorch,sublime,sklearn,tensorflow,ubuntu,vscode" /><br>
 </div>
-
-<br/>
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -51,8 +46,4 @@
  
 </div>
 
-<br/><br/>
 
-<hr/>
-
-<br/>
