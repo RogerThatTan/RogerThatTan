@@ -17,18 +17,24 @@
  </div>
  
 <div align="center"> 
- <a href="mailto:tanvirhassan4484@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+ <!-- Gmail -->
+<a href="mailto:tanvirhassan4484@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/mdtanhassan/" target="_blank">
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mdtanhassan/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="https://www.facebook.com/rogerthattan46481/">
-     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-</a> 
-<a href="https://scholar.google.com/citations?user=Wu-Rd-UAAAAJ&hl=en&authuser=1&oi=sra">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/rogerthattan46481/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<!-- Google Scholar -->
+<a href="https://scholar.google.com/citations?user=Wu-Rd-UAAAAJ&hl=en&authuser=1&oi=sra" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google%20Scholar-333333?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </a>
 
 
