@@ -28,8 +28,10 @@ Outside of work, I'm drawn to machine learning and computer vision. I keep an ey
 
 ### SQA :
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=selenium,playwright,postman&theme=dark" />
+<div align="right">
+  <img src="https://img.shields.io/badge/Selenium-0A192F?style=for-the-badge&logo=selenium&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Playwright-0A192F?style=for-the-badge&logo=playwright&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Postman-0A192F?style=for-the-badge&logo=postman&logoColor=64FFDA" />
 </div>
 
 ### Programming Languages :
