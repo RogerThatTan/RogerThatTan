@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=200&section=header&text=hi,%20tanvir%20here.&fontColor=64FFDA&fontSize=48&fontAlignY=45&desc=Associate%20SQA%20Engineer%20%C2%B7%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descColor=CCD6F6&descAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=64FFDA&center=true&vCenter=true&width=600&lines=Associate+SQA+Engineer+%40+Brainstation+23;Testing+.NET+projects+with+Playwright+%2B+TS;Exploring+AI-native+workflows+in+QA" />
 </p>
@@ -18,37 +22,35 @@
 
 <br/>
 
-## about me
+## <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="22"/> about me
 
 I'm currently an **Associate SQA Engineer** at **Brainstation 23**, embedded in a **.NET** development team where I contribute across multiple projects. I handle both manual and automation testing, with **Playwright + TypeScript** as my go-to stack for the automated side, and I've been steadily working AI DLC / AI-native tools into my day-to-day testing workflow.
 
 Outside of work, I'm drawn to machine learning and computer vision. I keep an eye on what's coming out of venues like CVPR and I co-authored a **2025 IEEE paper** applying machine learning to predict Olympic medal outcomes.
 
-## languages &amp; tools
 
-### SQA :
+## <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="22"/> languages &amp; tools
 
-<div align="right">
+### <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="18"/> SQA :
+<p align="center">
   <img src="https://img.shields.io/badge/Selenium-0A192F?style=for-the-badge&logo=selenium&logoColor=64FFDA" />
   <img src="https://img.shields.io/badge/Playwright-0A192F?style=for-the-badge&logo=playwright&logoColor=64FFDA" />
   <img src="https://img.shields.io/badge/Postman-0A192F?style=for-the-badge&logo=postman&logoColor=64FFDA" />
-</div>
+</p>
 
-### Programming Languages :
-
+### <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="18"/> Programming Languages :
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py&theme=dark" />
 </div>
 
-### Machine Learning &amp; Computer Vision (CVPR) :
-
+### <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="18"/> Machine Learning &amp; Computer Vision (CVPR) :
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 </div>
 
 <br/>
 
-## stats
+## <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="22"/> stats
 
 <div align="center">
   <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rogerthattan&hide=HTML&langs_count=8&layout=compact&theme=dark&border_color=64FFDA&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
