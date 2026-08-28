@@ -18,9 +18,6 @@
   <a href="https://scholar.google.com/citations?user=Wu-Rd-UAAAAJ&hl=en&authuser=1&oi=sra" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-0A192F?style=for-the-badge&logo=google-scholar&logoColor=64FFDA" />
   </a>
-  <a href="https://www.facebook.com/rogerthattan46481/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0A192F?style=for-the-badge&logo=facebook&logoColor=64FFDA" />
-  </a>
 </p>
 
 <br/>
