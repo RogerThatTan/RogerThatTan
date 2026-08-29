@@ -28,23 +28,22 @@ I'm currently an **Associate SQA Engineer** at **Brainstation 23**, embedded in 
 
 Outside of work, I'm drawn to machine learning and computer vision. I keep an eye on what's coming out of venues like CVPR and I co-authored a **2025 IEEE paper** applying machine learning to predict Olympic medal outcomes.
 
-
 ## <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="22"/> languages &amp; tools
 
 ### <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="18"/> SQA :
-<p align="center">
-  <img src="https://img.shields.io/badge/Selenium-0A192F?style=for-the-badge&logo=selenium&logoColor=64FFDA" />
-  <img src="https://img.shields.io/badge/Playwright-0A192F?style=for-the-badge&logo=playwright&logoColor=64FFDA" />
-  <img src="https://img.shields.io/badge/Postman-0A192F?style=for-the-badge&logo=postman&logoColor=64FFDA" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="48" alt="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48" alt="Playwright"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman"/>
+</div>
 
 ### <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="18"/> Programming Languages :
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py&theme=dark" />
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,py&theme=dark" />
 </div>
 
 ### <img src="https://img.shields.io/badge/／-0A192F?style=flat" height="18"/> Machine Learning &amp; Computer Vision (CVPR) :
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 </div>
 
